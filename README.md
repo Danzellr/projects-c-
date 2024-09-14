@@ -28,7 +28,6 @@ Un proyecto que implementa técnicas de Sliding Window para resolver problemas d
 - **Lenguajes**: C++, Python, HTML, CSS, JavaScript
 - **Estructuras de Datos**: Árboles, Grafos, Segment Trees, Union-Find
 - **Algoritmos**: DFS, BFS, Programación Dinámica, Sliding Window
-- **Certificaciones**: Microsoft Office 365, IA Generativa por Microsoft
 
 ## 🤝 Contribuciones
 
@@ -36,8 +35,8 @@ Si tienes alguna sugerencia, mejora o te gustaría contribuir a algún proyecto,
 
 ## 📬 Contacto
 
-- **Email**: [tuemail@example.com](mailto:tuemail@example.com)
-- **LinkedIn**: [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
+- **Email**: [danzellpaolo1234@gmail.com](mailto:danzellpaolo1234@gmail.com)
+- **LinkedIn**: [[linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)](https://www.linkedin.com/in/danzell-paolo-162536312/)
 
 ## 🔗 Licencia
 
