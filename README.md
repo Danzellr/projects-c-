@@ -36,7 +36,7 @@ Si tienes alguna sugerencia, mejora o te gustaría contribuir a algún proyecto,
 ## 📬 Contacto
 
 - **Email**: [danzellpaolo1234@gmail.com](mailto:danzellpaolo1234@gmail.com)
-- **LinkedIn**: [[linkedin.com](https://www.linkedin.com/in/danzell-paolo-162536312/))]
+- **LinkedIn**:  [linkedin.com](https://www.linkedin.com/in/danzell-paolo-162536312/)  
 
 ## 🔗 Licencia
 
