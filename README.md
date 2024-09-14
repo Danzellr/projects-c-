@@ -25,7 +25,7 @@ Un proyecto que implementa técnicas de Sliding Window para resolver problemas d
 
 ## 🛠️ Herramientas y Tecnologías
 
-- **Lenguajes**: C++, Python, HTML, CSS, JavaScript
+- **Lenguajes**: C++
 - **Estructuras de Datos**: Árboles, Grafos, Segment Trees, Union-Find
 - **Algoritmos**: DFS, BFS, Programación Dinámica, Sliding Window
 
