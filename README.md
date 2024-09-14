@@ -25,7 +25,7 @@ Un proyecto que implementa técnicas de Sliding Window para resolver problemas d
 
 ## 🛠️ Herramientas y Tecnologías
 
-- **Lenguajes**: C++
+- **Lenguajes**: C++.
 - **Estructuras de Datos**: Árboles, Grafos, Segment Trees, Union-Find
 - **Algoritmos**: DFS, BFS, Programación Dinámica, Sliding Window
 
@@ -37,7 +37,7 @@ Si tienes alguna sugerencia, mejora o te gustaría contribuir a algún proyecto,
 
 - **Email**: [danzellpaolo1234@gmail.com](mailto:danzellpaolo1234@gmail.com)
 - **LinkedIn**:  [linkedin.com](https://www.linkedin.com/in/danzell-paolo-162536312/)  
-
+- **OmegaUp**: [omegaup.com](https://omegaup.com/profile/danzellru)
 ## 🔗 Licencia
 
 Este repositorio está bajo la licencia MIT. Siéntete libre de usar el código, pero dale crédito a este repositorio. 😊
