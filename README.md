@@ -4,7 +4,7 @@
 
 ## 🏆 Sobre mí
 
-Soy una programadora competitiva con experiencia en:
+Soy un programador competitivo con experiencia en:
 
 - 🥇 Participación en competencias como la Olimpiada Mexicana de Informática (OMI), la Olimpiada Femenil Nacional de Informática y la Olimpiada Veracruzana de Informática, obteniendo medallas y menciones honoríficas.
 - 💡 Conocimientos avanzados en algoritmos, estructuras de datos, y desarrollo web.
